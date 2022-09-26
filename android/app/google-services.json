@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "415939777279",
+    "project_id": "my-notes-tutorial-app",
+    "storage_bucket": "my-notes-tutorial-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415939777279:android:08ee503381efc5ec5f72ca",
+        "android_client_info": {
+          "package_name": "com.example.tutorial_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415939777279-2f6pdfq6hbvtkcauas91grnk5i9buh2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWzFIyKBOSacd6qBXLzmTLEkTOVRvNUHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415939777279-2f6pdfq6hbvtkcauas91grnk5i9buh2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
