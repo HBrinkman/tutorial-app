@@ -63,7 +63,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '415939777279',
     projectId: 'my-notes-tutorial-app',
     storageBucket: 'my-notes-tutorial-app.appspot.com',
-    iosClientId: '415939777279-7raqr51mubhuveom4fuie3l0ehm8spmf.apps.googleusercontent.com',
+    iosClientId:
+        '415939777279-7raqr51mubhuveom4fuie3l0ehm8spmf.apps.googleusercontent.com',
     iosBundleId: 'com.example.tutorialApp',
   );
 }
